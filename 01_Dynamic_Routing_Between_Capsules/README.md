@@ -1,6 +1,6 @@
 ## Dynamic Routing Between Capsules
 
-## Additional Links:
+### Additional Links:
 
 * Follow-up paper - [Matrix Capsules with EM Routing](https://openreview.net/pdf?id=HJWLfGWRb)
 

@@ -5,3 +5,4 @@
 * (20.03.18) Auto Encoding Variational Bayes
 * (02.05.18) GANs
 * (10.05.18) Adam: A Method for Stochastic Optimization
+* (25.09.18) Variational Inference with Normalizing Flows

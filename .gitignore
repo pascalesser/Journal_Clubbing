@@ -1,2 +1,4 @@
 .DS_Store
 *.pdf
+
+!MasterThesis_Federici.*
